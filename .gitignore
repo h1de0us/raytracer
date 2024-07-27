@@ -1,0 +1,4 @@
+examples
+*.ppm
+*.o
+.DS_Store
